@@ -18,7 +18,7 @@
     width: 100%;
     height: 100vh;
     position: fixed;
-    backdrop-filter: blur(20px);
+    backdrop-filter: blur(21px);
     z-index: 999;
 
 }
